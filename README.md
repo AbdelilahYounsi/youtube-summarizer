@@ -1,5 +1,4 @@
 # youtube-summarizer
-# youtube-summarizer
 
 A Streamlit web application that automatically summarizes YouTube videos using CrewAI and Google's Gemini AI. Simply paste a YouTube URL and get a concise, well-structured summary of the video's content.
 
